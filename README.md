@@ -29,4 +29,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?elias6969-github-username&show_icons=true&theme=radical)
