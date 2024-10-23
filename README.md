@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm passionate about programming, especially in th
 ## About Me
 
 - 🎓 I attended a gymnasium for 3 years, where I focused on C++ and C#
-- 📚 I'm about to enroll in a Computer Science degree program
 - 🎮 I aspire to become a graphics programmer
 - 🌟 I love working with OpenGL, raylib, and C++
 - ✨ I'm also fascinated by shaders
