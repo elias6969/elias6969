@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about programming, especially in th
 - 🎓 I attended a gymnasium for 3 years, where I focused on C++ and C#
 - 🎮 I aspire to become a graphics programmer
 - 🌟 I love working with OpenGL, raylib, and C++
-- ✨ I'm also fascinated by shaders
+- ✨ i love kebab
 
 ## Skills
 
