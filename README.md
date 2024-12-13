@@ -51,17 +51,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/elias6969/elias6969/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=elias6969&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<p align="left">If u like kebab u should check out my stuff</p>
+<img src="https://github.com/elias6969/elias6969/blob/main/.github/workflows/main.yml" alt="Snake animation" />
 
 ###
 
