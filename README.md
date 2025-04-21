@@ -1,9 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on Pigeon Engine<br>🌚 currently learning Lua, python and go<br><br>🐧 setup: EndeavourOS + i3 + polybar + picom <br>
-<a href="https://www.pigeonrescue.org/" target="_blank">
-  Support Pigeons!
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f426.svg" width="40" title="Support Pigeons" alt="Pigeon Emoji" />
-</a>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/1f/09/14/1f091488ff46ae9a7d4994c132295459.jpg" alt="Welcome Banner" width="400"/>
+</p>
+
+<h1 align="center">Hey, I'm Mr. Rice 🍚</h1>
+<p align="center">Programmer • Terminal Aesthetic Enjoyer</p>
+<p align="center">Building <b>Pigeon Engine</b> — Rice is fire.</p>
+
+---
+
+## 🛠️ Favorite Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-007ACC?style=flat&logo=assembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kitty-000000?style=flat&logo=kittyterminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zsh-121012?style=flat&logo=zsh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/wxWidgets-1A4782?style=flat&logo=wxwidgets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dear_ImGui-23B5E5?style=flat&logo=imgui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EndeavourOS-1B1B1D?style=flat&logo=endeavouros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/i3-222222?style=flat&logo=i3&logoColor=white"/>
+</p>
+
+---
+
+## 💫 About Me
+- 🔭 Currently building: **Pigeon Engine**
+- 🌱 Learning & tinkering: Lua • Python • Go
+- 🐧 Setup: EndeavourOS + i3 + Kitty + Zsh
+- 💻 Editor: Neovim
+ 
+<p align="center">
+  <a href="https://www.pigeonrescue.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f426.svg" width="32" title="Support Pigeons" alt="Pigeon Emoji" />
+    Support Pigeons!
+  </a>
+</p>
+
+---
+
+## 📂 Notable Projects
+- 🎮 **Pigeon Engine** — C++ graphics engine  
+- 🖥️ **Pigeon Forge** — Built with wxWidgets, creates project folders for ur need  
+
+---
+
+
 
 
 # 💻 Tech Stack:
