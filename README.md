@@ -26,8 +26,7 @@
 ---
 
 ## 💫 About Me
-- 🔭 Currently building: **Pigeon Engine**
-- 🌱 Learning & tinkering: Lua • Python • Go
+- 🌱 Learning: Lua • Python • Go
 - 🐧 Setup: EndeavourOS + i3 + Kitty + Zsh
 - 💻 Editor: Neovim
  
