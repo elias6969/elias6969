@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pigeon Engine<br>🌚 currently learning Lua, python and go<br> <br>🐧 setup: EndeavourOS + i3 + polybar + picom <br>
+🔭 I’m currently working on Pigeon Engine<br>🌚 currently learning Lua, python and go<br><br>🐧 setup: EndeavourOS + i3 + polybar + picom <br>
 <a href="https://www.pigeonrescue.org/" target="_blank">
   Support Pigeons!
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f426.svg" width="40" title="Support Pigeons" alt="Pigeon Emoji" />
