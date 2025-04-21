@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/1f/09/14/1f091488ff46ae9a7d4994c132295459.jpg" alt="Welcome Banner" width="400"/>
 </p>
 
-<h1 align="center">Hey, I'm Mr. Rice 🍚</h1>
+<h1 align="center">Hey, I'm Mr Rice 🍚</h1>
 <p align="center">Programmer • Terminal Aesthetic Enjoyer</p>
 <p align="center">Building <b>Pigeon Engine</b> — Rice is fire.</p>
 
