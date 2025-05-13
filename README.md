@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mr Rice 🍚</h1>
+<h1 align="center">Hey, I'm elias 🍚</h1>
 <p align="center">Programmer • Terminal Aesthetic Enjoyer</p>
 <p align="center">Building <b>Pigeon Engine</b> — Rice is fire.</p>
 
