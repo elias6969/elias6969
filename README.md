@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/wxWidgets-1A4782?style=flat&logo=wxwidgets&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dear_ImGui-23B5E5?style=flat&logo=imgui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EndeavourOS-1B1B1D?style=flat&logo=endeavouros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artix-1B1B1D?style=flat&logo=artix-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/i3-222222?style=flat&logo=i3&logoColor=white"/>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## 💫 About Me
 - 🌱 Learning: Lua • Python • Go
-- 🐧 Setup: EndeavourOS + i3 + Kitty + Zsh
+- 🐧 Setup: Artix + i3 + Kitty + Zsh
 - 💻 Editor: Neovim
  
 <p align="center">
