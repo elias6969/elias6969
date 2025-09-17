@@ -25,7 +25,7 @@
 ---
 
 ## 💫 About Me
-- 🌱 Learning: Lua • Python • Go
+- 🌱 Learning: C++ • Java • C#
 - 🐧 Setup: Artix + i3 + Kitty + Zsh
 - 💻 Editor: Neovim
  
@@ -40,8 +40,8 @@
 
 ## 📂 Notable Projects
 - 🎮 **Pigeon Engine** — C++ graphics engine  
-- 🖥️ **Pigeon Forge** — Built with wxWidgets, creates project folders for ur need  
-
+- 🖥️ **Pigeon Forge** — Built with wxWidgets, creates project folders for ur need
+- **Pigeon Audio** – C++ audio engine for real-time audio visualization
 ---
 
 
