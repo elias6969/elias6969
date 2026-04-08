@@ -1,8 +1,4 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Elias%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20juniour%20fullstack%20developer%20with%20a%20strong%20passion%20in%20tech&descSize=20&descAlignY=55&descAlign=50)
-
-
 
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=%20Tech%20Stack&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
